@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462873171177",
+    "project_id": "fast-palisade-324501",
+    "storage_bucket": "fast-palisade-324501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462873171177:android:44c0898cf0f4169b918c78",
+        "android_client_info": {
+          "package_name": "com.example.idn_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCp2Y36pOVKWc6ZUhcR8UsSbMNcB-dzqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
